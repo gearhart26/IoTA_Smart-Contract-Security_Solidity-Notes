@@ -1,3 +1,5 @@
+// PARITY FREEZE HACK CODE EXAMPLE //
+
 pragma solidity ^0.4.8;
 
     contract Library{
